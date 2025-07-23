@@ -1,4 +1,4 @@
-🚀 Bike Shop Sales Dashboard 🚴‍♂️ - Built With Power BI 📊 
+# 🚀 Bike Shop Sales Dashboard 🚴‍♂️ - Built With Power BI 📊 
 Excited to share my latest project built with Power BI! This interactive sales dashboard was created to help a bike retail business visualize key performance indicators (KPIs), monitor product performance, and make data-driven decisions.
 🛠️ Tools Used: Power BI, DAX, Data Modeling, Visualization Design
 🔍 Key Highlights:
